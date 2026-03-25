@@ -5,100 +5,123 @@
 Focused on building scalable web applications and machine learning systems with real-world impact.
 </p>
 
+<h1 align="center">Hi 👋, I'm Dileep Chelli</h1>
+<h3 align="center">Software Engineer | Python • Django • Data Science</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dileepchelli&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-- 🎯 Software Engineer with strong foundation in **Python, Django, and Data Analytics**
-- 🧠 Built ML models with **90% accuracy and real-world use cases**
-- 📊 Worked with **100K+ datasets to drive business insights**
-- 🔍 Actively seeking **Software Developer / Data Engineer roles**
+* 🎯 Software Engineer focused on **backend development + machine learning**
+* 🧠 Built ML systems with **90% accuracy**
+* 📊 Worked with **100,000+ real-world data records**
+* ⚡ Strong in **Python, Django, REST APIs, Data Analytics**
+* 🔍 Looking for **Software Developer / Backend / Data roles**
 
 ---
 
 ## 🔥 Featured Project
 
-### 🧬 Fingerprint Blood Group Detection  
-🔗 https://github.com/Dileepchelli/Fingerprint-blood-group-detection-using-deeplearning  
+### 🧬 Fingerprint Blood Group Detection
 
-- Built CNN + GNN hybrid model  
-- Achieved **90% accuracy**  
-- Reduced manual work by **75%**  
+🔗 https://github.com/Dileepchelli/Fingerprint-blood-group-detection-using-deeplearning
+
+* CNN + GNN hybrid model
+* Achieved **90% accuracy**
+* Reduced manual work by **75%**
 
 ---
 
 ## 📊 Key Projects
 
 ### 📈 CTR Prediction System
-- Improved prediction accuracy by **8%**
-- Used **Scikit-learn, Pandas, feature engineering**
+
+* Improved prediction accuracy by **8%**
+* Built using **Scikit-learn, Pandas**
+* Applied feature engineering & validation techniques
 
 ---
 
 ## 💼 Experience
 
 ### 📊 Data Science Intern – Access Million
-- Analyzed **100,000+ records**
-- Increased conversion by **12%**
-- Improved ML accuracy by **15%**
-- Reduced reporting time by **40% (Power BI)**
+
+* Processed **100,000+ records**
+* Increased campaign conversion by **12%**
+* Improved ML accuracy by **15%**
+* Reduced reporting time by **40% using Power BI**
 
 ### 💻 Python Intern – Shiash Info Solutions
-- Reduced errors by **30%**
-- Improved performance by **25%**
+
+* Reduced system errors by **30%**
+* Improved performance by **25%**
 
 ### 🏭 Supervisor – KIA Motors
-- Managed 10+ team
-- Improved efficiency by **15%**
-- Reduced reporting time by **50%**
+
+* Managed 10+ team members
+* Improved efficiency by **15%**
+* Reduced reporting time by **50%**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
+
 `Python` `C` `JavaScript`
 
 ### 🌐 Web
+
 `Django` `Flask` `HTML` `CSS` `REST APIs`
 
 ### 🧠 Data & ML
+
 `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`
 
 ### 🗄 Databases
+
 `MySQL` `MongoDB`
 
 ### 📊 Tools
+
 `Power BI` `Matplotlib` `Seaborn` `Excel` `Jupyter`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dileepchelli&show_icons=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dileepchelli" />
+</p>
 
 ---
 
 ## 🎓 Education
 
-🎓 MCA – Andhra University (2023–2025) | CGPA: 7.8  
-🎓 BCA – Andhra University (2020–2023) | CGPA: 7.5  
-
----
-
-## 📜 Certifications
-
-- Data Science (2024)
-- Data Analytics Professional (2024)
-- AWS Cloud Computing (2022)
-- Cisco C Programming (2022)
+* 🎓 MCA – Andhra University (2023–2025) | CGPA: 7.8
+* 🎓 BCA – Andhra University (2020–2023) | CGPA: 7.5
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: dileepkumarchelli@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/chelli-dileep  
-- 💻 GitHub: https://github.com/Dileepchelli  
+* 📧 Email: [dileepkumarchelli@gmail.com](mailto:dileepkumarchelli@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/chelli-dileep
+* 💻 GitHub: https://github.com/Dileepchelli
 
 ---
 
 ## ⚡ What Makes Me Different
 
-- I don’t just build projects, I measure **impact**
-- I work with **real datasets, not dummy examples**
-- I focus on **performance, scalability, and accuracy**
+* I build **real-world projects with measurable results**
+* I focus on **performance, accuracy, and scalability**
+* I combine **backend + data + analytics skills**
+
+---
+
