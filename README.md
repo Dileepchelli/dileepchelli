@@ -1,20 +1,104 @@
-<h1 align="center">Hi 👋, I'm DILEEP CHELLI</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dileep Chelli</h1>
+<h3 align="center">Software Engineer | Python • Django • Data Science</h3>
 
-- 🔭 I’m currently working on [Fingerprint-Blood-Group-Detection-Using-Deeplearning](https://github.com/Dileepchelli/Fingerprint-blood-group-detection-using-deeplearning)
-
-- 🌱 I’m currently learning **reactjs,**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dileepchelli/Dileep-portfolio](https://github.com/Dileepchelli/Dileep-portfolio)
-
-- 📫 How to reach me **dileepkumarchelli@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QdHKSm68NEFZvhxJ4_W_I0SDjEDHcGXa/view?usp=drive_link](https://drive.google.com/file/d/1QdHKSm68NEFZvhxJ4_W_I0SDjEDHcGXa/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chelli-dileep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chelli-dileep" height="30" width="40" /></a>
+<p align="center">
+Focused on building scalable web applications and machine learning systems with real-world impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🎯 Software Engineer with strong foundation in **Python, Django, and Data Analytics**
+- 🧠 Built ML models with **90% accuracy and real-world use cases**
+- 📊 Worked with **100K+ datasets to drive business insights**
+- 🔍 Actively seeking **Software Developer / Data Engineer roles**
+
+---
+
+## 🔥 Featured Project
+
+### 🧬 Fingerprint Blood Group Detection  
+🔗 https://github.com/Dileepchelli/Fingerprint-blood-group-detection-using-deeplearning  
+
+- Built CNN + GNN hybrid model  
+- Achieved **90% accuracy**  
+- Reduced manual work by **75%**  
+
+---
+
+## 📊 Key Projects
+
+### 📈 CTR Prediction System
+- Improved prediction accuracy by **8%**
+- Used **Scikit-learn, Pandas, feature engineering**
+
+---
+
+## 💼 Experience
+
+### 📊 Data Science Intern – Access Million
+- Analyzed **100,000+ records**
+- Increased conversion by **12%**
+- Improved ML accuracy by **15%**
+- Reduced reporting time by **40% (Power BI)**
+
+### 💻 Python Intern – Shiash Info Solutions
+- Reduced errors by **30%**
+- Improved performance by **25%**
+
+### 🏭 Supervisor – KIA Motors
+- Managed 10+ team
+- Improved efficiency by **15%**
+- Reduced reporting time by **50%**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Python` `C` `JavaScript`
+
+### 🌐 Web
+`Django` `Flask` `HTML` `CSS` `REST APIs`
+
+### 🧠 Data & ML
+`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`
+
+### 🗄 Databases
+`MySQL` `MongoDB`
+
+### 📊 Tools
+`Power BI` `Matplotlib` `Seaborn` `Excel` `Jupyter`
+
+---
+
+## 🎓 Education
+
+🎓 MCA – Andhra University (2023–2025) | CGPA: 7.8  
+🎓 BCA – Andhra University (2020–2023) | CGPA: 7.5  
+
+---
+
+## 📜 Certifications
+
+- Data Science (2024)
+- Data Analytics Professional (2024)
+- AWS Cloud Computing (2022)
+- Cisco C Programming (2022)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: dileepkumarchelli@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/chelli-dileep  
+- 💻 GitHub: https://github.com/Dileepchelli  
+
+---
+
+## ⚡ What Makes Me Different
+
+- I don’t just build projects, I measure **impact**
+- I work with **real datasets, not dummy examples**
+- I focus on **performance, scalability, and accuracy**
