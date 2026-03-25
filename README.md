@@ -5,13 +5,6 @@
 Focused on building scalable web applications and machine learning systems with real-world impact.
 </p>
 
-<h1 align="center">Hi 👋, I'm Dileep Chelli</h1>
-<h3 align="center">Software Engineer | Python • Django • Data Science</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dileepchelli&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
