@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Dileep Chelli</h1>
-<h3 align="center">Software Engineer | Python • Django • Data Science</h3>
 
 <p align="center">
-Focused on building scalable web applications and machine learning systems with real-world impact.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Python+Engineer;Django+Specialist;Data+Driven+Developer;ML+System+Builder&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  Backend Developer building scalable APIs and data-driven systems with real-world impact.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Software Engineer focused on **backend development + machine learning**
-* 🧠 Built ML systems with **90% accuracy**
-* 📊 Worked with **100,000+ real-world data records**
-* ⚡ Strong in **Python, Django, REST APIs, Data Analytics**
-* 🔍 Looking for **Software Developer / Backend / Data roles**
+* 🎯 Backend-focused Software Engineer (Python + Django)
+* 🧠 Built ML system with **90% accuracy**
+* 📊 Worked with **100K+ real-world data**
+* ⚡ Strong in **REST APIs, databases, and analytics**
+* 🔍 Actively looking for **Backend / Software Developer roles**
+
+---
+
+## 📌 Highlights (Proof of Work)
+
+* 🚀 Reduced manual effort by **75% using ML system**
+* 📈 Improved business conversion by **12%**
+* ⚡ Reduced system errors by **30%**
+* 📊 Optimized reporting time by **40%**
 
 ---
 
@@ -25,7 +37,7 @@ Focused on building scalable web applications and machine learning systems with 
 
 * CNN + GNN hybrid model
 * Achieved **90% accuracy**
-* Reduced manual work by **75%**
+* Real-time biometric processing system
 
 ---
 
@@ -35,7 +47,15 @@ Focused on building scalable web applications and machine learning systems with 
 
 * Improved prediction accuracy by **8%**
 * Built using **Scikit-learn, Pandas**
-* Applied feature engineering & validation techniques
+* Applied feature engineering & validation
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,mysql,mongodb,tensorflow,pytorch" />
+</p>
 
 ---
 
@@ -43,10 +63,10 @@ Focused on building scalable web applications and machine learning systems with 
 
 ### 📊 Data Science Intern – Access Million
 
-* Processed **100,000+ records**
+* Processed **100K+ records**
 * Increased campaign conversion by **12%**
 * Improved ML accuracy by **15%**
-* Reduced reporting time by **40% using Power BI**
+* Reduced reporting time by **40%**
 
 ### 💻 Python Intern – Shiash Info Solutions
 
@@ -61,60 +81,37 @@ Focused on building scalable web applications and machine learning systems with 
 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-
-`Python` `C` `JavaScript`
-
-### 🌐 Web
-
-`Django` `Flask` `HTML` `CSS` `REST APIs`
-
-### 🧠 Data & ML
-
-`Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`
-
-### 🗄 Databases
-
-`MySQL` `MongoDB`
-
-### 📊 Tools
-
-`Power BI` `Matplotlib` `Seaborn` `Excel` `Jupyter`
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dileepchelli&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dileepchelli&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dileepchelli" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dileepchelli&hide_border=true" />
 </p>
 
 ---
 
 ## 🎓 Education
 
-* 🎓 MCA – Andhra University (2023–2025) | CGPA: 7.8
-* 🎓 BCA – Andhra University (2020–2023) | CGPA: 7.5
+🎓 MCA – Andhra University (2023–2025) | CGPA: 7.8
+🎓 BCA – Andhra University (2020–2023) | CGPA: 7.5
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-* 📧 Email: [dileepkumarchelli@gmail.com](mailto:dileepkumarchelli@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/chelli-dileep
-* 💻 GitHub: https://github.com/Dileepchelli
-
----
-
-## ⚡ What Makes Me Different
-
-* I build **real-world projects with measurable results**
-* I focus on **performance, accuracy, and scalability**
-* I combine **backend + data + analytics skills**
+<p align="center">
+  <a href="mailto:dileepkumarchelli@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/chelli-dileep">LinkedIn</a> •
+  <a href="https://github.com/Dileepchelli">GitHub</a>
+</p>
 
 ---
 
+## ⚡ What Sets Me Apart
+
+* I build **real-world systems, not tutorial projects**
+* I focus on **measurable impact (accuracy, performance, efficiency)**
+* I combine **backend engineering + data intelligence**
+
+---
